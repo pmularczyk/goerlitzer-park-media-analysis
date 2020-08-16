@@ -1,0 +1,92 @@
+[
+    {
+        "bz": {
+            "number_of_articles": 55,
+            "initial_number_of_words": 22639,
+            "average_number_of_words_per_article": 411.62,
+            "number_of_words_after_filtering": 12321,
+            "ratio_remaining_words_to_initial_number": 0.54
+        }
+    },
+    {
+        "independent.co.uk": {
+            "number_of_articles": 1,
+            "initial_number_of_words": 394,
+            "average_number_of_words_per_article": 394.0,
+            "number_of_words_after_filtering": 378,
+            "ratio_remaining_words_to_initial_number": 0.96
+        }
+    },
+    {
+        "rtl": {
+            "number_of_articles": 9,
+            "initial_number_of_words": 3464,
+            "average_number_of_words_per_article": 384.89,
+            "number_of_words_after_filtering": 1727,
+            "ratio_remaining_words_to_initial_number": 0.5
+        }
+    },
+    {
+        "tagesspiegel": {
+            "number_of_articles": 131,
+            "initial_number_of_words": 93038,
+            "average_number_of_words_per_article": 710.21,
+            "number_of_words_after_filtering": 44797,
+            "ratio_remaining_words_to_initial_number": 0.48
+        }
+    },
+    {
+        "twitter": {
+            "number_of_articles": 47,
+            "initial_number_of_words": 1428,
+            "average_number_of_words_per_article": 30.38,
+            "number_of_words_after_filtering": 776,
+            "ratio_remaining_words_to_initial_number": 0.54
+        }
+    },
+    {
+        "welt": {
+            "number_of_articles": 79,
+            "initial_number_of_words": 48391,
+            "average_number_of_words_per_article": 612.54,
+            "number_of_words_after_filtering": 23003,
+            "ratio_remaining_words_to_initial_number": 0.48
+        }
+    },
+    {
+        "zdf": {
+            "number_of_articles": 6,
+            "initial_number_of_words": 658,
+            "average_number_of_words_per_article": 109.67,
+            "number_of_words_after_filtering": 393,
+            "ratio_remaining_words_to_initial_number": 0.6
+        }
+    },
+    {
+        "facebook": {
+            "number_of_articles": 35,
+            "initial_number_of_words": 2283,
+            "average_number_of_words_per_article": 65.23,
+            "number_of_words_after_filtering": 1153,
+            "ratio_remaining_words_to_initial_number": 0.51
+        }
+    },
+    {
+        "morgenpost": {
+            "number_of_articles": 81,
+            "initial_number_of_words": 35965,
+            "average_number_of_words_per_article": 444.01,
+            "number_of_words_after_filtering": 17791,
+            "ratio_remaining_words_to_initial_number": 0.49
+        }
+    },
+    {
+        "rbb24": {
+            "number_of_articles": 37,
+            "initial_number_of_words": 17688,
+            "average_number_of_words_per_article": 478.05,
+            "number_of_words_after_filtering": 8659,
+            "ratio_remaining_words_to_initial_number": 0.49
+        }
+    }
+]

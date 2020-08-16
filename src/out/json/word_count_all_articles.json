@@ -1,0 +1,12 @@
+{
+    "number_of_articles": 481,
+    "initial_number_of_words": 226460,
+    "average_number_of_words_per_article": 470.81,
+    "number_of_words_after_filtering": 116251,
+    "ratio_remaining_words_to_initial_number": 0.51,
+    "number_of_sentences": 15715,
+    "average_number_of_words_per_sentence": 14.41,
+    "average_number_of_words_after_filtering_per_sentence": 7.4,
+    "number_of_words_from_titles": 2926,
+    "number_of_words_from_titles_after_filtering": 1889
+}

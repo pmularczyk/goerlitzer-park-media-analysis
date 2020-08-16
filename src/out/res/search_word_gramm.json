@@ -1,0 +1,260 @@
+[
+    {
+        "id": 6,
+        "source": "BZ",
+        "theme": "2019_05_11_ermittler_packt_aus_polizei_frust_ueber_drogenpark_goerli_",
+        "gramm": 2
+    },
+    {
+        "id": 25,
+        "source": "BZ",
+        "theme": "2019_09_06_die_polizei_versucht_zum_x_ten_mal_den_drogensumpf_trockenzulegen_",
+        "gramm": 1
+    },
+    {
+        "id": 28,
+        "source": "BZ",
+        "theme": "2019_09_12_das_ist_staatliche_beteiligung_an_einer_straftat_",
+        "gramm": 1
+    },
+    {
+        "id": 32,
+        "source": "BZ",
+        "theme": "2019_09_15_im_goerli_schuetzt_auch_fussball_vorm_dealen_nicht_",
+        "gramm": 1
+    },
+    {
+        "id": 33,
+        "source": "BZ",
+        "theme": "2019_09_19_cdu_will_zurueck_zu_null_toleranz_fuer_drogen_im_goerli_",
+        "gramm": 1
+    },
+    {
+        "id": 43,
+        "source": "BZ",
+        "theme": "2019_10_14_berliner_schnupfen_1_7_tonnen_kokain_pro_jahr_",
+        "gramm": 1
+    },
+    {
+        "id": 48,
+        "source": "BZ",
+        "theme": "2019_10_30_der_blutige_weg_der_drogen_in_die_hauptstadt_",
+        "gramm": 1
+    },
+    {
+        "id": 52,
+        "source": "BZ",
+        "theme": "2019_11_09_neue_idee_fuer_berlins_gefaehrlichsten_park_cdu_will_drogen_berater_im_goerli_",
+        "gramm": 1
+    },
+    {
+        "id": 120,
+        "source": "morgenpost.de",
+        "theme": "2019_08_10_zu_viel_gras_im_goerlitzer_park_",
+        "gramm": 2
+    },
+    {
+        "id": 121,
+        "source": "morgenpost.de",
+        "theme": "2019_08_12_drogen_im_goerlitzer_park_oberstaatsanwalt_warnt_vor_laxem_vorgehen_",
+        "gramm": 1
+    },
+    {
+        "id": 122,
+        "source": "morgenpost.de",
+        "theme": "2019_08_12_goerlitzer_park_cdu_fordert_rueckkehr_zu_null_toleranz_",
+        "gramm": 1
+    },
+    {
+        "id": 142,
+        "source": "morgenpost.de",
+        "theme": "2019_09_14_monika_herrmann_traut_sich_als_frau_nachts_nicht_in_berlins_parks_",
+        "gramm": 1
+    },
+    {
+        "id": 144,
+        "source": "morgenpost.de",
+        "theme": "2019_09_15_debatte_um_goerlitzer_park_monika_herrmann_unter_druck_",
+        "gramm": 1
+    },
+    {
+        "id": 157,
+        "source": "morgenpost.de",
+        "theme": "2019_10_22_kokain_und_heroin_den_besitz_zu_erlauben_ist_falsch_",
+        "gramm": 1
+    },
+    {
+        "id": 169,
+        "source": "morgenpost.de",
+        "theme": "2019_11_15_cdu_will_0_gramm_grenze_bei_eigenbedarf_im_goerlitzer_park_",
+        "gramm": 4
+    },
+    {
+        "id": 170,
+        "source": "morgenpost.de",
+        "theme": "2019_11_23_drogendealer_im_goerlitzer_park_anwohner_haben_angst_",
+        "gramm": 1
+    },
+    {
+        "id": 186,
+        "source": "rbb24",
+        "theme": "2019_07_25_endlosschleife_aus_festnehmen_und_laufenlassen_drogenkriminalitaet_im_goerlitzer_park",
+        "gramm": 2
+    },
+    {
+        "id": 189,
+        "source": "rbb24",
+        "theme": "2019_08_08_dregger_will_zu_henkels_null_toleranz_politik_zurueck_cdu_fordert_wieder_goerlitzer_park_kontrollen",
+        "gramm": 4
+    },
+    {
+        "id": 192,
+        "source": "rbb24",
+        "theme": "2019_08_17_berliner_polizei_hebt_mutmassliche_drogenbande_aus_pillen_kiloweise_marihuana_und_gold",
+        "gramm": 1
+    },
+    {
+        "id": 208,
+        "source": "rbb24",
+        "theme": "2019_12_09_gruene_bezirksbuergermeisterin_traut_sich_nachts_nicht_in_parks_ich_gehe_in_berlin_durch_gar_keine_parks",
+        "gramm": 1
+    },
+    {
+        "id": 217,
+        "source": "RTL.de",
+        "theme": "2019_11_15_cdu_will_0_gramm_grenze_bei_eigenbedarf_im_goerlitzer_park_",
+        "gramm": 4
+    },
+    {
+        "id": 223,
+        "source": "Tagesspiegel",
+        "theme": "2019_05_09_doch_keine_rosaroten_dealer_zonen_im_goerli_",
+        "gramm": 1
+    },
+    {
+        "id": 228,
+        "source": "Tagesspiegel",
+        "theme": "2019_05_10_drogenhandel_bleibt_mobil_",
+        "gramm": 1
+    },
+    {
+        "id": 241,
+        "source": "Tagesspiegel",
+        "theme": "2019_06_22_berlin_hat_den_kampf_gegen_die_drogen_verloren_reportage",
+        "gramm": 7
+    },
+    {
+        "id": 244,
+        "source": "Tagesspiegel",
+        "theme": "2019_06_22_voll_drauf_",
+        "gramm": 7
+    },
+    {
+        "id": 245,
+        "source": "Tagesspiegel",
+        "theme": "2019_06_24_cdu_gegen_drug_checking_",
+        "gramm": 2
+    },
+    {
+        "id": 246,
+        "source": "Tagesspiegel",
+        "theme": "2019_06_25_cdu_gegen_drogen_checking_",
+        "gramm": 2
+    },
+    {
+        "id": 268,
+        "source": "Tagesspiegel",
+        "theme": "2019_08_17_beamte_finden_marihuana_ecstasy_kokain_und_neun_gold_barren_",
+        "gramm": 1
+    },
+    {
+        "id": 282,
+        "source": "Tagesspiegel",
+        "theme": "2019_09_12_so_reagiert_berlins_politik_auf_monika_herrmanns_ausspruch_",
+        "gramm": 1
+    },
+    {
+        "id": 288,
+        "source": "Tagesspiegel",
+        "theme": "2019_09_14_maengelverwaltung_",
+        "gramm": 1
+    },
+    {
+        "id": 290,
+        "source": "Tagesspiegel",
+        "theme": "2019_09_14_wie_anwohner_den_goerlitzer_park_sicherer_machen_wollen_",
+        "gramm": 1
+    },
+    {
+        "id": 314,
+        "source": "Tagesspiegel",
+        "theme": "2019_10_10_das_valley_der_velos_",
+        "gramm": 1
+    },
+    {
+        "id": 326,
+        "source": "Tagesspiegel",
+        "theme": "2019_10_24_der_problempark_aufzug_kommt_",
+        "gramm": 2
+    },
+    {
+        "id": 329,
+        "source": "Tagesspiegel",
+        "theme": "2019_10_24_linke_fordert_staatliche_ausgabe_von_heroin_und_kokain_",
+        "gramm": 2
+    },
+    {
+        "id": 340,
+        "source": "Tagesspiegel",
+        "theme": "2019_11_15_cdu_will_null_gramm_grenze_im_goerlitzer_park_",
+        "gramm": 4
+    },
+    {
+        "id": 341,
+        "source": "Tagesspiegel",
+        "theme": "2019_11_15_lauter_nullen_kommentar",
+        "gramm": 4
+    },
+    {
+        "id": 373,
+        "source": "Twitter",
+        "theme": "2019_07_26_@jm_luczak",
+        "gramm": 1
+    },
+    {
+        "id": 408,
+        "source": "Welt.de",
+        "theme": "2019_06_15_dealen_ist_bequemer_geworden_",
+        "gramm": 1
+    },
+    {
+        "id": 413,
+        "source": "Welt.de",
+        "theme": "2019_07_05_mehrzahl_kann_mit_drogen_umgehen_",
+        "gramm": 1
+    },
+    {
+        "id": 414,
+        "source": "Welt.de",
+        "theme": "2019_07_05_mehrzahl_kann_mit_drogen_umgehen_",
+        "gramm": 1
+    },
+    {
+        "id": 439,
+        "source": "Welt.de",
+        "theme": "2019_09_12_kreuzberger_buergermeisterin_berliner_parks_sind_gefaehrlich_",
+        "gramm": 1
+    },
+    {
+        "id": 454,
+        "source": "Welt.de",
+        "theme": "2019_10_22_gruenen_politikerin_fordert_eigenbedarfsregelung_fuer_harte_drogen_",
+        "gramm": 2
+    },
+    {
+        "id": 471,
+        "source": "Welt.de",
+        "theme": "2019_11_15_cdu_will_0_gramm_grenze_bei_eigenbedarf_im_goerlitzer_park_",
+        "gramm": 4
+    }
+]
